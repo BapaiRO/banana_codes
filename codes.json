@@ -1,0 +1,9 @@
+{
+  "SUBSCRIBE": {
+    "ENABLED": true,
+    "MAX_REDEEMS": 100,
+    "REWARDS": {
+      "COINS": 500
+    }
+  }
+}
